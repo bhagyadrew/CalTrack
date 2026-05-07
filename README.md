@@ -34,3 +34,4 @@ Built entirely in C using structured programming concepts.
 
 ### Requirements
 - GCC Compiler (MinGW for Windows)
+![CalTrack Output](output.png)
